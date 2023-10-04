@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "elastrimealsticket",
+    "slug": "elastrimealsticket",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
